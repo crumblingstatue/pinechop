@@ -15,9 +15,11 @@
     Definitely. Fuck 64 bit floating point.
 
 4. Factorial operator `!`
+
     geebsawn request
 
 5. User-defineable functions
+
     Useful shit. Gotta have that.
 
 
